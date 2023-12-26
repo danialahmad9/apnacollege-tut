@@ -1,2 +1,3 @@
 # apnacollege-tut
-This is my first github repository
+This is my first GitHub repository
+Author - Danial Ahmad
